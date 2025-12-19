@@ -13,6 +13,7 @@ background-color: hsl(31, 53%, 90%);
 .background{
      background-color: white;
      border-radius: 15px;
+     width: 600px;
 }
 
 h1{
@@ -42,10 +43,11 @@ h2{
 .center{
     display: block;
     border-radius: 50px;
-    margin: 15px;
+    margin: 15px auto;
     padding: 30px;
-    width: 670px;
-    
+    width: 100%;
+    box-sizing: border-box;
+
 }
 
 .list{
