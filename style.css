@@ -14,6 +14,8 @@ background-color: hsl(31, 53%, 90%);
      background-color: white;
      border-radius: 15px;
      width: 600px;
+     display: block;
+     margin: 200px auto;
 }
 
 h1{
